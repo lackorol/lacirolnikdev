@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lacirolnikdev/static/css/main.5facb584.chunk.css",
-    "main.js": "/lacirolnikdev/static/js/main.dd04fcd6.chunk.js",
-    "main.js.map": "/lacirolnikdev/static/js/main.dd04fcd6.chunk.js.map",
+    "main.js": "/lacirolnikdev/static/js/main.c7fe6f1d.chunk.js",
+    "main.js.map": "/lacirolnikdev/static/js/main.c7fe6f1d.chunk.js.map",
     "runtime-main.js": "/lacirolnikdev/static/js/runtime-main.82e781d3.js",
     "runtime-main.js.map": "/lacirolnikdev/static/js/runtime-main.82e781d3.js.map",
     "static/js/2.3ef2d018.chunk.js": "/lacirolnikdev/static/js/2.3ef2d018.chunk.js",
     "static/js/2.3ef2d018.chunk.js.map": "/lacirolnikdev/static/js/2.3ef2d018.chunk.js.map",
     "index.html": "/lacirolnikdev/index.html",
-    "precache-manifest.7d6a2c8a7ccf9ba9892d9f86e24b20f3.js": "/lacirolnikdev/precache-manifest.7d6a2c8a7ccf9ba9892d9f86e24b20f3.js",
+    "precache-manifest.f113652caf00fff3373ba2ac160be738.js": "/lacirolnikdev/precache-manifest.f113652caf00fff3373ba2ac160be738.js",
     "service-worker.js": "/lacirolnikdev/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/lacirolnikdev/static/css/main.5facb584.chunk.css.map",
     "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/lacirolnikdev/static/js/2.3ef2d018.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.82e781d3.js",
     "static/js/2.3ef2d018.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.dd04fcd6.chunk.js"
+    "static/js/main.c7fe6f1d.chunk.js"
   ]
 }
